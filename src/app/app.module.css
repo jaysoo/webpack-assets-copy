@@ -1,0 +1,10 @@
+/* Your styles goes here. */
+
+.large {
+  background-image: url('../large.png');
+  height: 40vh;
+}
+.small {
+  background-image: url('../small.png');
+  height: 40vh;
+}
